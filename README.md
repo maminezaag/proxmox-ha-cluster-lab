@@ -19,7 +19,7 @@ The objective of this project is to build a **High Availability Proxmox cluster*
 * **QDevice (Raspberry Pi)**: 192.168.0.45
 
 📸 Architecture diagram:
-![Cluster Architecture](screenshots/HA cluster_archi.png)
+![Cluster Architecture](screenshots/HAcluster_archi.png)
 
 ---
 
